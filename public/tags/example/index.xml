@@ -4,23 +4,40 @@
     <title>Example on Eric&#39;s Blog</title>
     <link>http://localhost:1313/Eric-s-Blog-v2/tags/example/</link>
     <description>Recent content in Example on Eric&#39;s Blog</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 02 Oct 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/Eric-s-Blog-v2/tags/example/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2026 Eric Linus</copyright>
+    <lastBuildDate>Sat, 14 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/Eric-s-Blog-v2/tags/example/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>test-mermaid</title>
+      <link>http://localhost:1313/Eric-s-Blog-v2/posts/1771039517231-test-mermaid/</link>
+      <pubDate>Sat, 14 Feb 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/Eric-s-Blog-v2/posts/1771039517231-test-mermaid/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/Eric-s-Blog-v2/posts/1771039517231-test-mermaid/featured.png" />
+    </item>
+    
     <item>
       <title>编程中的“未知的未知”：为什么我们总在手搓已有的解决方案？</title>
       <link>http://localhost:1313/Eric-s-Blog-v2/posts/1759422197072-post15/</link>
       <pubDate>Thu, 02 Oct 2025 00:00:00 +0000</pubDate>
+      
       <guid>http://localhost:1313/Eric-s-Blog-v2/posts/1759422197072-post15/</guid>
       <description></description>
+      
     </item>
+    
     <item>
       <title>从零构建任务管理应用：我的前后端分离初体验</title>
       <link>http://localhost:1313/Eric-s-Blog-v2/posts/1759239394060-post14/</link>
       <pubDate>Tue, 30 Sep 2025 00:00:00 +0000</pubDate>
+      
       <guid>http://localhost:1313/Eric-s-Blog-v2/posts/1759239394060-post14/</guid>
       <description></description>
+      
     </item>
+    
   </channel>
 </rss>

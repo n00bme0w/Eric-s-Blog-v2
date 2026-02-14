@@ -4,8 +4,10 @@
     <title>Series on Eric&#39;s Blog</title>
     <link>http://localhost:1313/Eric-s-Blog-v2/series/</link>
     <description>Recent content in Series on Eric&#39;s Blog</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <copyright>© 2026 Eric Linus</copyright>
     <atom:link href="http://localhost:1313/Eric-s-Blog-v2/series/index.xml" rel="self" type="application/rss+xml" />
+    
   </channel>
 </rss>

@@ -4,16 +4,20 @@
     <title>生活 on Eric&#39;s Blog</title>
     <link>http://localhost:1313/Eric-s-Blog-v2/categories/%E7%94%9F%E6%B4%BB/</link>
     <description>Recent content in 生活 on Eric&#39;s Blog</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 10 Jan 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/Eric-s-Blog-v2/categories/%E7%94%9F%E6%B4%BB/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2026 Eric Linus</copyright>
+    <lastBuildDate>Sat, 10 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/Eric-s-Blog-v2/categories/%E7%94%9F%E6%B4%BB/index.xml" rel="self" type="application/rss+xml" />
+    
     <item>
       <title>about</title>
       <link>http://localhost:1313/Eric-s-Blog-v2/posts/about/</link>
       <pubDate>Sat, 10 Jan 2026 00:00:00 +0000</pubDate>
+      
       <guid>http://localhost:1313/Eric-s-Blog-v2/posts/about/</guid>
       <description></description>
+      
     </item>
+    
   </channel>
 </rss>

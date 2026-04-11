@@ -28,8 +28,7 @@ jobs:
           hugo-version: "latest"
 
       - name: Build
-        run: hugo --minify
-
+        run: hugo --baseURL "https://www.noobmeow.icu/" --minify --cleanDestinationDir
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         if: ${{ github.ref == 'refs/heads/main' }}

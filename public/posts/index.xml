@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026 Eric Linus</copyright>
-    <lastBuildDate>Mon, 16 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/Eric-s-Blog-v2/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 13 Apr 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/Eric-s-Blog-v2/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>关于pixel手机网络与时钟同步问题</title>
+      <link>http://localhost:1313/Eric-s-Blog-v2/posts/1776087861032-post21/</link>
+      <pubDate>Mon, 13 Apr 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/Eric-s-Blog-v2/posts/1776087861032-post21/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/Eric-s-Blog-v2/posts/1776087861032-post21/featured.png" />
+    </item>
     
     <item>
       <title>Garbage-First Garbage Collection</title>

@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026 Eric Linus</copyright>
-    <lastBuildDate>Mon, 13 Apr 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/Eric-s-Blog-v2/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 17 Apr 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/Eric-s-Blog-v2/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>使用fastboot安装android16 qpr1 userdebug gis系统踩坑记录</title>
+      <link>http://localhost:1313/Eric-s-Blog-v2/posts/1776426406276-post22/</link>
+      <pubDate>Fri, 17 Apr 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/Eric-s-Blog-v2/posts/1776426406276-post22/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/Eric-s-Blog-v2/posts/1776426406276-post22/featured.png" />
+    </item>
     
     <item>
       <title>关于pixel手机网络与时钟同步问题</title>
